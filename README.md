@@ -15,6 +15,9 @@
 </p>
 
 ## Previews
+<p align="center">Current Progress:
+  <image src="assets.mocha.png">
+</p>
 
 <details>
 <summary>🌻 Latte</summary>
