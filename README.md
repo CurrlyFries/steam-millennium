@@ -16,7 +16,7 @@
 
 ## Previews
 <p align="center">Current Progress:
-  <image src="assets.mocha.png">
+  <image src="assets/mocha.png">
 </p>
 
 <details>
