@@ -7,7 +7,7 @@
 /* Main colour for the big text at the top*/
 ._7AlhCx3XGzBeIrQaCneUD ._19axKcqYRuaJ8vdYKYmtTQ, ._2-O4ZG0KrnSrzISHBKctFQ._2ws8DONH9fxQjPXEmRpujE, .eNLOx4LVceeMwRvTVWh3 ._3O48LaKWcabKx07xdrt1TH, ._3cV3O8FnPQqpJO5kIMUlLX, ._3cV3O8FnPQqpJO5kIMUlLX, ._2o5c89vAnrXN8C60QTSMqO, ._1YdRdM9TZ_3Xolwv9aVEv- ._DialogInputContainer, ._2o5c89vAnrXN8C60QTSMqO {
  color: #cdd6f4;
- 
+
 }
 ._7AlhCx3XGzBeIrQaCneUD._1gqEjB5QsKT_NftD1dEsdZ:not(._2cO0HdvLEGAdhosLekWsmo) ._19axKcqYRuaJ8vdYKYmtTQ {
  color: #89B4FA;
@@ -18,14 +18,14 @@
 }
 
 /* footer, top bar, some parts at top of library too*/
-._3Z7VQ1IMk4E3HsHvrkLNgo, .RGNMWtyj73_-WdhflrmuY ._2CmrnGY-Amtd83ScJkFvx2, ._2TKEazUUS3TlniZfpc8OOe, ._3vCzSrrXZzZjVJFZNg9SGu {
+._3Z7VQ1IMk4E3HsHvrkLNgo, .RGNMWtyj73_-WdhflrmuY ._2CmrnGY-Amtd83ScJkFvx2, ._2TKEazUUS3TlniZfpc8OOe, ._3vCzSrrXZzZjVJFZNg9SGu, ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K{
  background-color: #181825;
 }
 
 /* Profile button,  Notification button, Games and software button WHEN NOT HOVERED*/
-._3yD46y5pd3zOGR7CzKs0mC.online, .RtSv39ZoBOySnb8XQ5hJf._3qhGkQ5qLVNQQ-J2-uPoHt, ._2PF_m-I5yte3WnQhpcz8RC, ._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC, ._3pSPluBgf0NeR1kkCLWMhR, ._3pSPluBgf0NeR1kkCLWMhR.eNLOx4LVceeMwRvTVWh3, ._20QAC4WMXm8qFE8waUT5oo  {
- background-color: #313244; 
- color: #BFC8E4; 
+._3yD46y5pd3zOGR7CzKs0mC.online, .RtSv39ZoBOySnb8XQ5hJf._3qhGkQ5qLVNQQ-J2-uPoHt, ._2PF_m-I5yte3WnQhpcz8RC, ._1ZS_xta5HMXzR8JgxDH6n7 ._2PF_m-I5yte3WnQhpcz8RC, ._3pSPluBgf0NeR1kkCLWMhR, ._3pSPluBgf0NeR1kkCLWMhR.eNLOx4LVceeMwRvTVWh3, ._20QAC4WMXm8qFE8waUT5oo, ._5wILZhsLODVwGfcJ0hKmJ {
+ background-color: #313244;
+ color: #BFC8E4;
 }
 /* icons in steam library */
 ._1ZS_xta5HMXzR8JgxDH6n7 ._1PgAonvorr0o_NMxNKiDFU ._3mzKdQXht__YHo6PX1LmB6 svg, ._20QAC4WMXm8qFE8waUT5oo .vCCmYvn9yQ_V8CpKupllU ._1TxHdzOt3OD9ikR3xIseKe svg path, ._1YdRdM9TZ_3Xolwv9aVEv- ._DialogInputContainer .DialogDropDown_Arrow svg {
@@ -38,14 +38,18 @@
 .nC-pL16iUnIRcaj1UVnwq ._2tyaVs9BpqcW068aaOrO56 {
  background: #BFC8E4;
 }
-._1TdaAqMFadi0UTqilrkelR ._3OhUxFVlQYr9W5ThxstR8k, ._1TdaAqMFadi0UTqilrkelR ._1KrJ3sFAqPBN9mfpaNTU5F, .ip-YZhijAMZcuRoXBGiye ._3wJnTtcTLEp0R7eQj_mK8Y, .ip-YZhijAMZcuRoXBGiye ._1KrJ3sFAqPBN9mfpaNTU5F, ._2foCkpRXhqq0UGVE50BWqj ._1KrJ3sFAqPBN9mfpaNTU5F, ._2foCkpRXhqq0UGVE50BWqj ._3OhUxFVlQYr9W5ThxstR8k, ._2UyOBeiSdBayaFdRa39N2O, .RtSv39ZoBOySnb8XQ5hJf._3qhGkQ5qLVNQQ-J2-uPoHt ._34bQcTHo5QKzuujoEyU1tm, ._3LKQ3S_yqrebeNLF6aeiog, ._2rlKqvybYupc-uk64cdQ8D, ._1Gu1U2_kcg3AWLrXQgX5S6 div.DVBcpUzJ0x6kaRMfug0OJ, ._25lBLzuVeYAUG279up4xP8 {
+._1TdaAqMFadi0UTqilrkelR ._3OhUxFVlQYr9W5ThxstR8k, ._1TdaAqMFadi0UTqilrkelR ._1KrJ3sFAqPBN9mfpaNTU5F, .ip-YZhijAMZcuRoXBGiye ._3wJnTtcTLEp0R7eQj_mK8Y, .ip-YZhijAMZcuRoXBGiye ._1KrJ3sFAqPBN9mfpaNTU5F, ._2foCkpRXhqq0UGVE50BWqj ._1KrJ3sFAqPBN9mfpaNTU5F, ._2foCkpRXhqq0UGVE50BWqj ._3OhUxFVlQYr9W5ThxstR8k, ._2UyOBeiSdBayaFdRa39N2O, .RtSv39ZoBOySnb8XQ5hJf._3qhGkQ5qLVNQQ-J2-uPoHt ._34bQcTHo5QKzuujoEyU1tm, ._3LKQ3S_yqrebeNLF6aeiog, ._2rlKqvybYupc-uk64cdQ8D, ._1Gu1U2_kcg3AWLrXQgX5S6 div.DVBcpUzJ0x6kaRMfug0OJ, ._25lBLzuVeYAUG279up4xP8, ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._3izqEKa-zuPIrUDSm1bRvf, ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._3izqEKa-zuPIrUDSm1bRvf, ._1bGewp3tfzqAF6fVTFFUOz .UkR3sY319PuaUNuUWks2K ._2m_orETo6AghzAnc0sISCt .MZPxEZcxAGtPDf1NYtouS {
  color: #BFC8E4;
 }
 
 /*Games List on left of library */
-._3Sb2o_mQ30IDRh0C72QUUu, ._1ZS_xta5HMXzR8JgxDH6n7, ._3x1HklzyDs4TEjACrRO2tB {
+._3Sb2o_mQ30IDRh0C72QUUu, ._1ZS_xta5HMXzR8JgxDH6n7 {
  background-image: none;
  background-color: #1e1e2e;
+}
+._3x1HklzyDs4TEjACrRO2tB {
+ background-image: none;
+ background-color: #181825;
 }
 ._17uEBe5Ri8TMsnfELvs8-N {
  background-image: none;
@@ -54,7 +58,7 @@
 
 /* Collection header thingies */
 ._2sYIghGVXJr6tsQVvcryy8 {
- background: linear-gradient(to right, #313244 40%, rgba(62, 78, 105, 0) 100%); 
+ background: linear-gradient(to right, #313244 40%, rgba(62, 78, 105, 0) 100%);
 }
 
 /* User button/dropdown in top right of screen */
@@ -63,8 +67,8 @@
 }
 
 /* The little strip next to the profile picture that shows your status*/
-.online, ._3xUpb5DWXPFNcHHIcv-9pe {
- background: #89B4FA;  
+.online ._3xUpb5DWXPFNcHHIcv-9pe {
+ background: #89B4FA;
 }
 
 /* play button */
